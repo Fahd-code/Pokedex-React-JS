@@ -3,7 +3,7 @@ Il s'agit d'une application Web Pokédex construite à l'aide de ReactJS, Redux 
 
 ## Live Link
 
-[https://pokedex-flurn.netlify.app/](https://pokedex-flurn.netlify.app/)
+[https://lucky-cocada-355e1e.netlify.app)
 
 ## - **Page de recherche :** Les utilisateurs peuvent rechercher des Pokémon par leur nom. L'application effectue un appel API pour récupérer les données Pokémon et affiche des indicateurs de chargement et des messages d'erreur si nécessaire.
 

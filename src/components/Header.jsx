@@ -29,7 +29,11 @@ const Header = () => {
                         <p>Pokédex</p>
                     </div>
                 </Link>
-
+                <div className="header-right">
+                    <a target='_blank' href="https://lucky-cocada-355e1e.netlify.app/">FRANÇAIS</a>
+                    <span>/</span>
+					<a target='_blank' href="">ENGLISH</a>
+                </div>
                 <div className="header-right">
                     <a target='_blank' href="mailto:fahd.bahjaji@ecoles-epsi.net">Email</a>
                     <span>/</span>

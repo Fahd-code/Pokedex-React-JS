@@ -32,7 +32,7 @@ const Header = () => {
                 <div className="header-right">
                     <a target='_blank' href="https://lucky-cocada-355e1e.netlify.app/">FRANÇAIS</a>
                     <span>/</span>
-					<a target='_blank' href="">ENGLISH</a>
+					<a target='_blank' href="blabla">ENGLISH</a>
                 </div>
                 <div className="header-right">
                     <a target='_blank' href="mailto:fahd.bahjaji@ecoles-epsi.net">Email</a>

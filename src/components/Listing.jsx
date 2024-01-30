@@ -59,7 +59,7 @@ const Listing = () => {
         <>
             <section className='listing-main'>
                 <div className="listing">
-                    <h2>Pokemons List</h2>
+                    <h2>List Des Pokemons</h2>
                     <div className='listing-section'>
                         <div className="listing-div">
                             {
